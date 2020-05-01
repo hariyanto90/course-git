@@ -30,5 +30,9 @@
 - setelah selesai ctrl + K 
 - Periksa kembali baris perbaris program/file 
 - isi commit dan commit dan push
+- setelah itu singkronkan Branch BUK-1 dengan master 
+- BUK-1 di pojok kanan bawah, lalu pilih master dan checkout
+- dan pilih kembali branch anda (BUK-1)
+- merger
 
 
