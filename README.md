@@ -40,5 +40,21 @@
 - buat folder 
 - lihat file 
 - lihat posisi branch
-- buat branch git checkout -b BUK-2
-- taj
+- buat branch $git checkout -b BUK-2
+- kirim branch ke server $git push origin BUK-2
+- edit file/program yang mau di ubah $kate README.md
+- simpan perubahan $git add .
+- commit dengan $git commit -am'simpan perubahan di BUK-2
+- lalu simpan keserver dengan $git push 
+- masuk ke master dengan $git checkout master 
+- pastikan posisi branch sekarang
+- gabungkan file/ program yang kita buat ke master dengan $git merge BUK-2
+- lakukan commit $git commit -am'tambahkan cara delete branch di terminal'
+- lalu push atau kirim ke server dengan $git push
+- cek website untuk melihat perubahan master
+
+## Hapus branch pada terminal
+- masuk ke master dengan $git checkout master
+- hapus BUK-3 dengan perintah $git branch -d BUK-3
+- hapus BUK-3 di server website $git push origin --delete BUK3
+- get push 
