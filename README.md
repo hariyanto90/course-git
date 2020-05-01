@@ -35,4 +35,10 @@
 - dan pilih kembali branch anda (BUK-1)
 - merger
 
-
+## bekerja pada branch di terminal
+- clone/Download
+- buat folder 
+- lihat file 
+- lihat posisi branch
+- buat branch git checkout -b BUK-2
+- taj
